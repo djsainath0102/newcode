@@ -1,3 +1,4 @@
+in
 #!/bin/bash
 read -p "Enter the first value:" num1
 read -p "Enter the second value:" num2
